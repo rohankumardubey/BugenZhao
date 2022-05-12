@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C303%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C301%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-114-blue)
 
@@ -24,5 +24,5 @@ Mac                      22 hrs 25 mins      ███████████�
 ```
 
 
- Last Updated on 12/05/2022 16:02:06 UTC
+ Last Updated on 12/05/2022 16:04:09 UTC
 <!--END_SECTION:waka-->
