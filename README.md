@@ -9,8 +9,8 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     11 hrs 13 mins      ████████████████████░░░░░   80.99% 
-Other                    2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.05% 
+Rust                     11 hrs 13 mins      ████████████████████░░░░░   81.0% 
+Other                    2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.04% 
 Protocol Buffer          24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.89% 
 YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58% 
 JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
@@ -24,7 +24,7 @@ Mac                      13 hrs 51 mins      ███████████�
 ```
 
 
- Last Updated on 03/07/2022 16:01:45 UTC
+ Last Updated on 03/07/2022 16:03:28 UTC
 <!--END_SECTION:waka-->
 
 ![CodersRank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BugenZhao&padding=16&tooltip=true&branding=false&sort-by-score=true&skills=Rust%2C%20Swift%2C%20C%2C%20TypeScript%2C%20Java%2C%20Go%2C%20Dart%2C%20C%2B%2B%2C%20Python%2C%20Assembly%2C%20Shell%2C%20Kotlin)
