@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C528%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C534%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,22 +9,22 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     18 hrs 40 mins      ███████████████████████░░   92.95% 
-Other                    38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15% 
-TOML                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87% 
-Protocol Buffer          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39% 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
+Rust                     20 hrs 55 mins      ███████████████████████░░   93.76% 
+Other                    41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.08% 
+TOML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.49% 
+Protocol Buffer          18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37% 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 
 🔥 Editors: 
-VS Code                  20 hrs 5 mins       █████████████████████████   100.0%
+VS Code                  22 hrs 19 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      20 hrs 5 mins       █████████████████████████   100.0%
+Mac                      22 hrs 19 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 25/07/2022 07:10:15 UTC
+ Last Updated on 26/07/2022 05:45:30 UTC
 <!--END_SECTION:waka-->
 
 ![CodersRank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BugenZhao&padding=16&tooltip=true&branding=false&sort-by-score=true&skills=Rust%2C%20Swift%2C%20C%2C%20TypeScript%2C%20Java%2C%20Go%2C%20Dart%2C%20C%2B%2B%2C%20Python%2C%20Assembly%2C%20Shell%2C%20Kotlin)
