@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C864%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C858%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,22 +9,22 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     13 hrs 49 mins      ███████████████████░░░░░░   77.46% 
-TypeScript               2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.99% 
-YAML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.99% 
-JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.96% 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56%
+Rust                     17 hrs 18 mins      █████████████████████░░░░   85.93% 
+TypeScript               1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.6% 
+YAML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94% 
+Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18% 
+JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85%
 
 🔥 Editors: 
-VS Code                  17 hrs 50 mins      █████████████████████████   100.0%
+VS Code                  20 hrs 8 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      17 hrs 50 mins      █████████████████████████   100.0%
+Mac                      20 hrs 8 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 16/01/2023 12:43:21 UTC
+ Last Updated on 17/01/2023 00:46:31 UTC
 <!--END_SECTION:waka-->
 
 <!--![CodersRank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BugenZhao&padding=16&tooltip=true&branding=false&sort-by-score=true&skills=Rust%2C%20Swift%2C%20C%2C%20TypeScript%2C%20Java%2C%20Go%2C%20Dart%2C%20C%2B%2B%2C%20Python%2C%20Assembly%2C%20Shell%2C%20Kotlin)-->
