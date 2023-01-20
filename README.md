@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C880%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C876%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,22 +9,22 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     18 hrs 47 mins      ████████████████████░░░░░   80.78% 
-TypeScript               1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.32% 
-TOML                     48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.46% 
-Other                    40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.89% 
-Bash                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44%
+Rust                     20 hrs 51 mins      ████████████████████░░░░░   80.02% 
+TypeScript               1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.43% 
+Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.58% 
+TOML                     54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.46% 
+Bash                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.28%
 
 🔥 Editors: 
-VS Code                  23 hrs 15 mins      █████████████████████████   100.0%
+VS Code                  26 hrs 3 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      23 hrs 15 mins      █████████████████████████   100.0%
+Mac                      26 hrs 3 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 19/01/2023 12:42:30 UTC
+ Last Updated on 20/01/2023 00:46:31 UTC
 <!--END_SECTION:waka-->
 
 <!--![CodersRank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BugenZhao&padding=16&tooltip=true&branding=false&sort-by-score=true&skills=Rust%2C%20Swift%2C%20C%2C%20TypeScript%2C%20Java%2C%20Go%2C%20Dart%2C%20C%2B%2B%2C%20Python%2C%20Assembly%2C%20Shell%2C%20Kotlin)-->
